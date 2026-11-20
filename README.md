@@ -17,7 +17,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/arash-123456/LogForensics.git
+git clone https://github.com/Mohammad-Amjadi-pentest2/LogForensics.git
 cd LogForensics
 python logforensics.py -f /var/log/auth.log
 python logforensics.py -f access.log -t apache -o report.json
